@@ -1,0 +1,16 @@
+torch
+torchvision
+numpy
+scikit-learn
+pandas
+matplotlib
+seaborn
+flask
+flwr
+foolbox
+stable-baselines3
+gym
+pytorch-lightning
+torch-geometric
+requests
+chart.js
