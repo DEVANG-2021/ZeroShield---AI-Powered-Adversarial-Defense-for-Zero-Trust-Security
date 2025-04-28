@@ -20,14 +20,12 @@ It enhances traditional Zero Trust Security by enabling real-time attack detecti
 - **Languages:** Python, JavaScript (React.js)
 - **Frameworks:** PyTorch, TensorFlow, Flower (Federated Learning), Foolbox (Adversarial ML)
 - **Libraries:** Stable-Baselines3 (RL), PyTorch Geometric (GNNs), D3.js, Chart.js
-- **Backend:** Flask API
-- **Frontend:** React.js, D3.js, Axios
 - **Visualization:** Real-time dashboard for attacks and model metrics
 
 ---
 
 ## 📂 Project Structure
 ```plaintext
-├── main.py                   # AI model training, GAN, RL, GNNs, FL setups
-├── README.md                 # Project documentation (this file)
-└── requirements.txt          # Python dependencies
+├── Cyber_Secturity_Solution.ipynb                   # AI model training, GAN, RL, GNNs, FL setups
+├── README.md                                        # Project documentation (this file)
+└── requirements.txt                                 # Python dependencies
