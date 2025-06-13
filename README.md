@@ -5,7 +5,9 @@ This project implements an AI-powered cybersecurity system designed to defend po
 It enhances traditional Zero Trust Security by enabling real-time attack detection, adaptive defense, and decentralized learning across distributed nodes.
 
 ---
-
+## Team Member in the Project
+Shivam Patel - Software Engineer - University of Windsor
+---
 ## 🚀 Features
 - Real-time cyberattack detection and classification.
 - Adversarial sample generation using GANs for model hardening.
